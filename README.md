@@ -1,1 +1,1 @@
-# static64.github.io
+# static-64.github.io
